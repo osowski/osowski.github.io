@@ -61,8 +61,7 @@ Also, just in time for DockerCon EU 2015, we launched **[microservicesTV](https
 
 ### [microservicesTV - All Things Microservices](https://developer.ibm.com/tv/microservices/)
 
-<figure id="attachment_53" style="width: 300px;" class="wp-caption aligncenter">
-[<img src="/custom-media/CUleAm6XIAE8-Z3.png-large-300x150.png" alt="microservicesTV - All things microservices" width="300" height="150" />](/custom-media/CUleAm6XIAE8-Z3.png-large.png)<figcaption class="wp-caption-text">microservicesTV - All things microservices</figcaption></figure>
+<img src="/custom-media/CUleAm6XIAE8-Z3.png-large-300x150.png" alt="microservicesTV - All things microservices" width="300" height="150" />
 
 &nbsp;
 
