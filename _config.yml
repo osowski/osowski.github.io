@@ -1,0 +1,11 @@
+# Setup
+name:         Rick's Blog
+tagline:      Ramblings on technology and other random topics from an IT veteran
+baseurl:      ""
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: redcarpet
