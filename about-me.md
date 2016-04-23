@@ -3,7 +3,7 @@ id: 24
 title: About Me
 date: 2015-05-15T20:39:39+00:00
 author: Rick Osowski
-layout: page
+layout: default
 guid: http://rickosowski.com/?page_id=24
 ---
 ## Background
