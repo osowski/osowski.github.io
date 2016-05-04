@@ -863,6 +863,10 @@ dl dd {
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width: 479px) { }
 
-.posts.title {
+.posts .title {
   font-weight: bold;
+}
+
+.posts .title p {
+  font-weight: normal;
 }
