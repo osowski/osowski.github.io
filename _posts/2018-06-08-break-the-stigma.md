@@ -1,6 +1,5 @@
 ---
 title: Break The Stigma
-date: 2016-02-08T09:15:33+00:00
 author: Rick Osowski
 layout: post
 permalink: /2018/06/break-the-stigma/
