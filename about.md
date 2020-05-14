@@ -4,6 +4,7 @@ title: About Me
 date: 2015-05-15T20:39:39+00:00
 author: Rick Osowski
 layout: page
+published: false
 ---
 ## Background
 
