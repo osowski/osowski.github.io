@@ -10,7 +10,7 @@ published: false
 
 ![Rick Osowski](/img/osowski-headshot-compressed.jpg)
 
-Rick Osowski is a Solution Architect for IBM Cloud. With over 12 years of technical experience in IBM's middleware and business process management capabilities, Rick now focuses on hybrid cloud applications for the company's expanding client base, building on [IBM Bluemix](https://console.ng.bluemix.net/). He has a Bachelor's degree in Computer Science from Penn State University and considers himself hopelessly addicted to scripting and automating wherever possible.
+Rick Osowski is a Solution Architect for IBM Cloud. With over 16 years of technical experience in IBM's middleware and business process management capabilities, Rick now focuses on hybrid cloud applications for the company's expanding client base, building on [IBM Cloud](https://cloud.ibm.com/). He has a Bachelor's Degree in Computer Science from Penn State University and considers himself hopelessly addicted to scripting and automating wherever possible.
 
 When not strategically placed in front of a computer, Rick enjoys playing hockey, traveling, and Magic: The Gathering.
 
