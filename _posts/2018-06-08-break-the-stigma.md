@@ -7,8 +7,6 @@ categories:
   - Personal
 tags:
   - Mental Health
-  - Mental Illness
-  - Suicide Awareness
   - Suicide Prevention
 ---
 
@@ -20,9 +18,9 @@ However, there are thousands more every day that die to suicide. The world will 
 
 This is why we have to have these conversations to break the stigma of mental health, mental illness, and the healthcare access necessary for the support and treatment of both. It’s good to have the conversation when a name we recognize is in the news. But it’s even better to have the conversation on a random Thursday without any Hollywood headlines or famous people attached, completely removed from the 24-hour news cycle.
 
-**Have the hard conversations.**  
-**Reach out to your struggling friend.**  
-**Reach out to your strong friend.**  
+**Have the hard conversations.**
+**Reach out to your struggling friend.**
+**Reach out to your strong friend.**
 **Break the stigma.**
 
 For access to resources, please visit any of the following sites:

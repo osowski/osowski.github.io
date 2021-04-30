@@ -7,7 +7,7 @@ layout: post
 guid: http://rickosowski.com/?p=40
 permalink: /2015/06/go-to-a-meetup-like-yesterday/
 categories:
-  - Meetups
+  - Technology
 tags:
   - Community
   - Learning
