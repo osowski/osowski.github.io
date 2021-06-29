@@ -163,6 +163,7 @@ The only parameters we will be configuring from the downstream client perspectiv
    1. Switch to the YAML view.
     ![10](/assets/2021-04-27-kafka-security-fundamentals-1/10.png)
    1. Update the **listeners** section within the Spec with the following configuration
+
        ```yaml
        listeners:
          - name: plain
@@ -180,6 +181,7 @@ The only parameters we will be configuring from the downstream client perspectiv
            authentication:
              type: scram-sha-512
        ```
+
        The above _listeners_ configuration will create an internal non-secured listener on port `9092`, an internal TLS-secured listener on port `9093` and an external TLS-secured and scram-sha-512 authentication required on port `9094`. We will use this last port to access our Kafka cluster from outside of OpenShift. As a result, we will need a TLS certificate for the SSL connection plus a set of `scram-sha-512` credentials to get authenticated against.
     1. Make sure the **entityOperator** along with the **topicOperator** and the **userOperator** are also defined within the **spec** section. If they are not, add them.
       ![10-1](/assets/2021-04-27-kafka-security-fundamentals-1/10-1.png)
