@@ -5,8 +5,7 @@ author: Rick Osowski
 layout: post
 permalink: /2019/12/dear-friend/
 canonical_url: 'https://www.anthologiesofhope.com/articles/dear-friend'
-categories:
-  - Personal
+category: personal
 tags:
   - Mental Health
   - Suicide Prevention

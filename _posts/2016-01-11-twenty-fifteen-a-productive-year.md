@@ -6,8 +6,7 @@ author: Rick Osowski
 layout: post
 guid: http://rickosowski.com/?p=52
 permalink: /2016/01/twenty-fifteen-a-productive-year/
-categories:
-  - Technology
+category: technology
 tags:
   - Bluemix
   - Cloud

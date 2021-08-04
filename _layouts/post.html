@@ -2,6 +2,12 @@
 layout: default
 ---
 
+{% assign category_coll = site.post_categories | where: "slug", page.category %}
+{% assign category = category_coll[0] %}
+{% if category %}
+  {% capture category_content %}<a class="label" href="{{ category.url }}">{{ category.name }}</a>{% endcapture %}
+{% endif %}
+
 <!-- Page Header -->
 {% if page.background %}
 <header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
@@ -21,7 +27,8 @@ layout: default
           {% endif %}
           <span class="meta">Posted by
             <a href="#">{{ page.author }}</a>
-            on {{ page.date | date: '%B %d, %Y' }}</span>
+            on {{ page.date | date: '%B %d, %Y' }}{% if category_content %} in {{ category_content }}{% endif %}
+          </span>
         </div>
       </div>
     </div>

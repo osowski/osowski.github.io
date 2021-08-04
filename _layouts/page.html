@@ -2,6 +2,10 @@
 layout: default
 ---
 
+{% if page.path contains '/category' %}
+
+{% endif %}
+
 <!-- Page Header -->
 {% if page.background %}
 <header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
@@ -15,10 +19,17 @@ layout: default
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
         <div class="page-heading">
-          <h1>{{ page.title }}</h1>
+          {% if page.url contains '/category/' %}
+            {% assign category_coll = site.post_categories | where: "slug", page.slug %}
+            {% assign pageTitle = category_coll[0].name %}
+          {% else %}
+            {% assign pageTitle = page.title %}
+          {% endif %}
+          <h1>{{ pageTitle }}</h1>
           {% if page.description %}
             <span class="subheading">{{ page.description }}</span>
           {% endif %}
+          
         </div>
       </div>
     </div>

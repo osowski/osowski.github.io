@@ -3,8 +3,7 @@ title: Heart Camp
 author: Rick Osowski
 layout: post
 permalink: /2019/02/heartcamp/
-categories:
-  - Personal
+category: personal
 tags:
   - Heart Camp
   - Mental Health

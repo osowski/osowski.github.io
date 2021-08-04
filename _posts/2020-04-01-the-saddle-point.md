@@ -5,8 +5,7 @@ author: Rick Osowski
 layout: post
 permalink: /2020/04/the-saddle-point/
 canonical_url: 'https://www.anthologiesofhope.com/articles/the-saddle-point'
-categories:
-  - Personal
+category: personal
 tags:
   - COVID-19
   - Mental Health

@@ -6,8 +6,7 @@ author: Rick Osowski
 layout: post
 guid: http://rickosowski.com/?p=40
 permalink: /2015/06/go-to-a-meetup-like-yesterday/
-categories:
-  - Technology
+category: technology
 tags:
   - Community
   - Learning

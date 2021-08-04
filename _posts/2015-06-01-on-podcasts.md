@@ -6,8 +6,7 @@ author: Rick Osowski
 layout: post
 guid: http://rickosowski.com/?p=36
 permalink: /2015/06/on-podcasts/
-categories:
-  - Entertainment
+category: entertainment
 tags:
   - Podcasts
   - Tangent

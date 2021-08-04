@@ -5,8 +5,7 @@ author: Rick Osowski
 layout: post
 permalink: /2021/04/kafka-security-fundamentals-1/
 canonical_url: 'https://rosowski.medium.com/kafka-security-fundamentals-the-rosetta-stone-to-your-event-streaming-infrastructure-518f49640db4'
-categories:
-  - Technology
+category: technology
 tags:
   - Apache Kafka
   - Event-Driven Architecture

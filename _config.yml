@@ -35,6 +35,19 @@ plugins:
   - jekyll-paginate
   - jekyll-seo-tag
 
+collections:
+  post_categories:
+    output: true
+    permalink: /category/:slug/
+
+defaults:
+  - scope:
+      path: ""
+      type: post_categories
+    values:
+      layout: posts_by_category
+      description: Posts by Category
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.

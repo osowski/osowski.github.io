@@ -5,8 +5,7 @@ author: Rick Osowski
 layout: post
 permalink: /2020/04/choose-your-words-wisely/
 canonical_url: 'https://www.anthologiesofhope.com/articles/choose-your-words-wisely'
-categories:
-  - Personal
+category: personal
 tags:
   - COVID-19
   - Mental Health

@@ -4,8 +4,7 @@ date: 2021-07-23T10:30:00-05:00
 author: Rick Osowski
 layout: post
 permalink: /2021/07/what-i-read-this-week-july-23/
-categories:
-  - What I Read
+category: what-i-read
 tags:
   - Mental Health
   - Technology

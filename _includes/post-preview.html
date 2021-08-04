@@ -1,0 +1,24 @@
+{% assign category_coll = site.post_categories | where: "slug", include.post_param.category %}
+{% assign category = category_coll[0] %}
+{% if category %}
+    {% capture category_content %}<a class="label" href="{{ category.url }}">{{ category.name }}</a>{% endcapture %}
+{% endif %}
+
+<article class="post-preview">
+    <a href="{{ include.post_param.url | prepend: site.baseurl | replace: '//', '/' }}">
+      <h2 class="post-title">{{ include.post_param.title }}</h2>
+      {% if include.post_param.subtitle %}
+        <h3 class="post-subtitle">{{ include.post_param.subtitle }}</h3>
+      {% else %}
+        <h3 class="post-subtitle">{{ include.post_param.excerpt | strip_html | truncatewords: 15 }}</h3>
+      {% endif %}
+    </a>
+    <p class="post-meta">Posted by
+      {% if include.post_param.author %}
+        {{ include.post_param.author }}
+      {% else %}
+        {{ site.author }}
+      {% endif %}
+      on
+      {{ include.post_param.date | date: '%B %d, %Y' }}{% if category_content %} in {{ category_content }}{% endif %}</p>
+  </article>

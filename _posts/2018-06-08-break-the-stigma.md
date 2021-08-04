@@ -3,8 +3,7 @@ title: Break The Stigma
 author: Rick Osowski
 layout: post
 permalink: /2018/06/break-the-stigma/
-categories:
-  - Personal
+category: personal
 tags:
   - Mental Health
   - Suicide Prevention

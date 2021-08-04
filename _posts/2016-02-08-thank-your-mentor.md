@@ -6,8 +6,7 @@ author: Rick Osowski
 layout: post
 guid: http://rickosowski.com/?p=49
 permalink: /2016/02/thank-your-mentor/
-categories:
-  - Technology
+category: technology
 tags:
   - Career
   - Learning

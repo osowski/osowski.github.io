@@ -5,8 +5,7 @@ author: Rick Osowski
 layout: post
 permalink: /2021/06/kafka-security-fundamentals-2/
 canonical_url: 'https://rosowski.medium.com/kafka-security-fundamentals-adding-tls-to-your-event-driven-utility-belt-432307f4ff62'
-categories:
-  - Technology
+category: technology
 tags:
   - Apache Kafka
   - Event-Driven Architecture
