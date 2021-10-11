@@ -1,9 +1,9 @@
 ---
-title: 'What I read this week - October 11th, 2021'
-date: 2021-10-11T10:30:00-05:00
+title: 'What I read this week - October 15th, 2021'
+date: 2021-10-15T10:30:00-05:00
 author: Rick Osowski
 layout: post
-permalink: /2021/10/what-i-read-this-week-october-11/
+permalink: /2021/10/what-i-read-this-week-october-15/
 category: what-i-read
 tags:
   - Technology
