@@ -18,6 +18,6 @@ This is a collection of links, blogs, articles, videos, and just about anything 
 ### Leadership and Organization
 - [Stop Writing Code If You Are a Team Leader](https://medium.com/@ms_lizzie/stop-writing-code-if-you-are-a-team-leader-794e78ce6426)
 - [5 Traits of a Bad Code Reviewer](https://medium.com/@ms_lizzie/5-traits-of-a-bad-code-reviewer-598da8e6dc19)
-- [Why YOu Should Always Turn Down an Exit Interview](https://medium.com/codex/why-you-should-always-turn-down-an-exit-interview-ce25440b4e8c)
+- [Why You Should Always Turn Down an Exit Interview](https://medium.com/codex/why-you-should-always-turn-down-an-exit-interview-ce25440b4e8c)
 - [The Right Way to Hold People Accountable](https://hbr.org/2016/01/the-right-way-to-hold-people-accountable)
 - [Accountability in Indian Business Culture](https://www.devonblog.com/outsourcing/accountability-indian-business-culture/)
