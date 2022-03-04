@@ -2,6 +2,8 @@
 
 Personal blog of [osowski](https://github.com/osowski/), utilizing [GitHub Pages][3].
 
+Available publicly via [http://rickosowski.com/](http://rickosowski.com/).
+
 ## Architect theme
 
 This is a [Jekyll][1] theme that is an adaptation of [@jasonlong][2]'s [Architect theme][4] on [GitHub Pages][3].
