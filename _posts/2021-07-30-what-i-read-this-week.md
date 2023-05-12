@@ -7,6 +7,7 @@ permalink: /2021/07/what-i-read-this-week-july-30/
 category: what-i-read
 tags:
   - Technology
+published: false
 ---
 
 This is a collection of links, blogs, articles, videos, and just about anything else that I dove into this past week _(in no particular order, preference, or context)_.
