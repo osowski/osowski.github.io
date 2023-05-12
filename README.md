@@ -14,7 +14,6 @@ This is the raw HTML and styles that are used for the *Architect* theme on [GitH
 
 ![](http://cl.ly/image/1x0Q3213330G/content)
 
-
 [1]: http://jekyllrb.com
 [2]: https://github.com/jasonlong
 [3]: http://pages.github.com/
