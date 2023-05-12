@@ -7,6 +7,7 @@ permalink: /2022/02/what-i-read-this-week-february-11/
 category: what-i-read
 tags:
   - Technology
+published: false
 ---
 
 This is a collection of links, blogs, articles, videos, and just about anything else that I dove into this past week _(in no particular order, preference, or context)_.
