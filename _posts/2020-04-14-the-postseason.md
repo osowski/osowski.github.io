@@ -9,6 +9,7 @@ category: personal
 tags:
   - COVID-19
   - Mental Health
+published: false
 ---
 
 Falling asleep on the couch in April and May has always been a thing for as long as I can remember. Not because I didn’t like sleeping in my bed, but because I would fall asleep watching playoff hockey well into the night. There was something comforting about knowing games would be on almost every night at 7pm and then again at 10pm and I could slide back into being a little kid again when I listened to the Philadelphia Flyers games while laying on the floor with Gene Hart playing over the AM airwaves.
